@@ -13,10 +13,16 @@
       "element": "water"
     },
     {
-      "id": "c63e3206-a509-48aa-b6d6-0f086d77bf79",
+      "id": "ade2a3fe-7b8d-4612-8f49-a09c19a8c0bd",
+      "name": "Fire character",
+      "description": "set fire to TCK",
+      "element": "fire"
+    },
+    {
+      "id": "8511b0e3-456d-4787-98cd-9bbd7270087b",
       "name": "Ivan",
-      "description": "...",
-      "element": "wind"
+      "description": "lie on the earth",
+      "element": "earth"
     }
   ],
   "filters": [
